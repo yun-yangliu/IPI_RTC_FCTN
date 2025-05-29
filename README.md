@@ -11,12 +11,14 @@
 ## Citation
 If you find this code helpful, please kindly cite:
 ```bibtex
-@article{YYL2023,
-title = {Fully-connected tensor network decomposition for robust tensor completion problem},
-journal = {Inverse Problems and Imaging},
-pages = {}
-year = {2023},
-author = {Liu, Yun-Yang and Zhao, Xi-Le and Song, Guang-Jing and Zheng, Yu-Bang and Huang, Ting-Zhu}}
+@article{liu2024fully,
+title={Fully-connected tensor network decomposition for robust tensor completion problem},
+author={Liu, Yun-Yang and Zhao, Xi-Le and Song, Guang-Jing and Zheng, Yu-Bang and Ng, Michael K and Huang, Ting-Zhu},
+journal={Inverse Problems and Imaging},
+volume={18},
+number={1},
+pages={208--238},
+year={2024}}
 ```
 
 ## Contact
